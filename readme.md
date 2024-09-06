@@ -18,7 +18,7 @@ app.use(express.urlencoded({ extended: true }));
 ```
 - Puedes hacer tu proyecto todo lo modular que quieras.
 
-## El ejercicio se compone de 2 partes
+## El ejercicio se compone de 2 partest
 
 1. Scraping
 
